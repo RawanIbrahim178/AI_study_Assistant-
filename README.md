@@ -25,3 +25,6 @@ def summarize_text(text):
 user_input = "The human brain controls all body functions."
 print(summarize_text(user_input))
 Add app preview image
+## ⭐ Support the Project
+If you like this project, please consider giving it a star ⭐  
+It helps others find it and motivates me to keep improving!
